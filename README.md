@@ -220,7 +220,7 @@
 		<tr>
 			<td>RICC RN</td>
 			<td>Main</td>
-			<td><a href="tel://412-295-6966">412-3295-6966</a></td>
+			<td><a href="tel://412-295-6966">412-295-6966</a></td>
 		</tr>
 		<tr>
 			<td>Security</td>
